@@ -27,5 +27,5 @@ Currently, two official plugins are available:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/DeveloperAbhaya/React_Todo_List
+   cd ..
